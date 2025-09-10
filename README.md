@@ -5,7 +5,7 @@
 
 1. How does "Simple" work? **doesn't matter what you put**
 2. How does "Better" improve it? **it matters how you ask the question**
-3. What do the "Global Variables" have to do with this?
+3. What do the "Global Variables" have to do with this?**global variables store the joke**
 4. How does "Best" improve it more?**it also matters how you ask the question, but gives you different opportunitys to make it right**
    
 ### Code Questions
@@ -15,4 +15,5 @@
 8. What parts (line numbers) are "Processing" (the computer makes a decision to affect what it does)?
 9. How does "Best" handle repeat guessing? What's the "word" that refers to a function calling itself?
 10. Fist to Five:  How well did you understand what we talked about today?
+
 
