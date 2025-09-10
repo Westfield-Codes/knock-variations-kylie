@@ -9,11 +9,12 @@
 4. How does "Best" improve it more?**it also matters how you ask the question, but gives you different opportunitys to make it right**
    
 ### Code Questions
-5. What parts (line numbers) are "Output" (the computer writes something on the screen)?
-6. What parts (line numbers) are "Input" (you have to type something?)
-7. What parts (line numbers) are "Storage" (the computer holds on to what you write - look at "Better"
-8. What parts (line numbers) are "Processing" (the computer makes a decision to affect what it does)?
-9. How does "Best" handle repeat guessing? What's the "word" that refers to a function calling itself?
-10. Fist to Five:  How well did you understand what we talked about today?
+5. What parts (line numbers) are "Output" (the computer writes something on the screen)?**9, 10, 11**
+6. What parts (line numbers) are "Input" (you have to type something?) **9,10**
+7. What parts (line numbers) are "Storage" (the computer holds on to what you write - look at "Better"**17**
+8. What parts (line numbers) are "Processing" (the computer makes a decision to affect what it does)?**18**
+9. How does "Best" handle repeat guessing? What's the "word" that refers to a function calling itself?**recursion**
+10. Fist to Five:  How well did you understand what we talked about today? **5**
+
 
 
